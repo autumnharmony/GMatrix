@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GMatrix">
+</Property><Property Name="Файл решения" Value="K:\GMatrix\GMatrix.sln">
+</Property><Property Name="Файл параметров пользователя" Value="K:\GMatrix\GMatrix.suo">
+</Property><Property Name="Date" Value="8 октября 2010 г.">
+</Property><Property Name="Time" Value="2:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GMatrix.sln" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\GMatrix.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GMatrix.suo" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\GMatrix.suo">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="GMatrix.csproj" Description="Успешно создана резервная копия файла проекта: K:\GMatrix\Backup\GMatrix.csproj">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Form1.cs" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Form1.Designer.cs" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Program.cs" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Properties\Settings.settings" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Form1.resx" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="Properties\Resources.resx" Description="Успешно создана резервная копия файла K:\GMatrix\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="GMatrix.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="GMatrix" Source="GMatrix.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GMatrix.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="GMatrix.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GMatrix" Source="GMatrix.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

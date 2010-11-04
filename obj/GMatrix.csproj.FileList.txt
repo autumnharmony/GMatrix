@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMatrix.Form1.resources
+obj\Debug\GMatrix.Properties.Resources.resources
+obj\Debug\GMatrix.csproj.GenerateResource.Cache
+bin\Debug\GMatrix.exe
+bin\Debug\GMatrix.pdb
+obj\Debug\GMatrix.exe
+obj\Debug\GMatrix.pdb
