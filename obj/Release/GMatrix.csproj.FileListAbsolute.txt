@@ -1,9 +1,0 @@
-H:\GMatrix\bin\Release\GMatrix.exe
-H:\GMatrix\bin\Release\GMatrix.pdb
-H:\GMatrix\obj\Release\ResolveAssemblyReference.cache
-H:\GMatrix\obj\Release\GMatrix.Form1.resources
-H:\GMatrix\obj\Release\GMatrix.MatrixView.resources
-H:\GMatrix\obj\Release\GMatrix.Properties.Resources.resources
-H:\GMatrix\obj\Release\GMatrix.csproj.GenerateResource.Cache
-H:\GMatrix\obj\Release\GMatrix.exe
-H:\GMatrix\obj\Release\GMatrix.pdb
